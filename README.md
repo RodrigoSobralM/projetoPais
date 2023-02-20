@@ -6,12 +6,12 @@ Projeto disciplinar aplicado pela escola DNC (Formação em tecnologia - Desencv
 
 **Finalidade:** Implementar os ensinos e liguagens aprendidos no decorrer do curso na parte de front-end.
 
-**Elaboração:** Utilização de linguagem HTML e CSS, para a criação da landing page a partir de um figma. Manipulções javascript, para o consumo de API.
+**Elaboração:** Utilização de Bootstrap, para a criação da landing page a partir de um figma. Manipulções javascript, para o consumo de API.
 
 
 ## Stack utilizada
 
-**Front-end:** HTML, CSS, Javascript
+**Front-end:** Bootstrap, Javascript
 
 
 
